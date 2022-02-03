@@ -1,8 +1,8 @@
 <html>
-  <head>
+  <head></head>
     <title>
     </title>
-  </head>
+  
   <body>
     <h1> abc </h1>
   </body>
